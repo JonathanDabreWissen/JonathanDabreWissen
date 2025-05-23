@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **React, Frontend, Java**
 
-- 📫 How to reach me **dabremanuel.jonathan@wissen.com**
 
 - ⚡ Fun fact **Pigs can't look at SKY**
 
